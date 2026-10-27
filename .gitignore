@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.DS_Store
+CLAUDE.md
+data/trashnet/
+models/*.pt
+!models/resnet18_layer4.pt
+!models/cnn.pt

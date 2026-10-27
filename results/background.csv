@@ -1,0 +1,6 @@
+run,light (19),closeup (12),scene (41)
+cnn_noaug,0.474,0.333,0.317
+cnn,0.632,0.583,0.195
+resnet18_frozen,0.737,0.583,0.561
+resnet18_layer4,0.842,0.417,0.561
+resnet18,0.632,0.417,0.415

@@ -1,0 +1,17 @@
+resnet18_frozen: resnet18_frozen, mps, train 2022, val 505, параметров 11,179,590 (обучаемых 3,078), эпох 15, lr 0.001, аугментации да
+эпоха  1/15: train loss 1.311 acc 0.490 | val loss 0.928 acc 0.663 F1 0.594 | 14 с
+эпоха  2/15: train loss 0.924 acc 0.668 | val loss 0.796 acc 0.699 F1 0.641 | 10 с
+эпоха  3/15: train loss 0.800 acc 0.720 | val loss 0.767 acc 0.737 F1 0.662 | 10 с
+эпоха  4/15: train loss 0.739 acc 0.744 | val loss 0.678 acc 0.784 F1 0.718 | 10 с
+эпоха  5/15: train loss 0.679 acc 0.773 | val loss 0.653 acc 0.772 F1 0.727 | 10 с
+эпоха  6/15: train loss 0.650 acc 0.784 | val loss 0.635 acc 0.786 F1 0.746 | 10 с
+эпоха  7/15: train loss 0.642 acc 0.770 | val loss 0.636 acc 0.776 F1 0.722 | 10 с
+эпоха  8/15: train loss 0.619 acc 0.779 | val loss 0.592 acc 0.798 F1 0.756 | 10 с
+эпоха  9/15: train loss 0.614 acc 0.785 | val loss 0.583 acc 0.804 F1 0.766 | 11 с
+эпоха 10/15: train loss 0.613 acc 0.792 | val loss 0.595 acc 0.798 F1 0.756 | 11 с
+эпоха 11/15: train loss 0.594 acc 0.805 | val loss 0.574 acc 0.808 F1 0.764 | 11 с
+эпоха 12/15: train loss 0.589 acc 0.795 | val loss 0.574 acc 0.810 F1 0.767 | 12 с
+эпоха 13/15: train loss 0.566 acc 0.808 | val loss 0.577 acc 0.812 F1 0.773 | 12 с
+эпоха 14/15: train loss 0.576 acc 0.799 | val loss 0.575 acc 0.808 F1 0.765 | 13 с
+эпоха 15/15: train loss 0.594 acc 0.796 | val loss 0.575 acc 0.808 F1 0.765 | 13 с
+Готово за 2.8 мин, веса: models/resnet18_frozen.pt
